@@ -25,10 +25,6 @@ This repository contains the code for a weed detection robot designed to autonom
 
 The dataset used in this project can be downloaded from [Kaggle - Weed Detection Dataset](https://www.kaggle.com/xyz/weed-detection-dataset).
 
-Alternatively, you can download it directly using the following command:
-```bash
-kaggle datasets download -d xyz/weed-detection-dataset -p model/dataset/
-
 ### Setup
 
 1. Clone the repository:
