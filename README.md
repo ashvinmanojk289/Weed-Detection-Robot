@@ -4,11 +4,11 @@ This repository contains the code for a weed detection robot designed to autonom
 
 ## Project Structure
 
-- **hardware/**: Contains code and documentation for the hardware setup, including the robot base, sensors, actuators, and computing platform.
-- **model/**: Contains code for training and running the transformer-based weed detection model.
-- **ros/**: Contains ROS nodes for perception, control, and navigation of the robot.
-- **herbicide/**: Contains code for the herbicide spraying mechanism.
-- **docs/**: Contains additional documentation and images.
+- **hardware**: Contains code and documentation for the hardware setup, including the robot base, sensors, actuators, and computing platform.
+- **model**: Contains code for training and running the transformer-based weed detection model.
+- **ros**: Contains ROS nodes for perception, control, and navigation of the robot.
+- **herbicide**: Contains code for the herbicide spraying mechanism.
+- **docs**: Contains additional documentation and images.
 
 ## Installation
 
