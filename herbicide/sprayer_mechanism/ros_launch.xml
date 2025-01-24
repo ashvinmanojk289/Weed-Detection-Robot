@@ -1,0 +1,5 @@
+<launch>
+    <node pkg="ros" type="perception_node.py" name="perception_node" output="screen"/>
+    <node pkg="ros" type="control_node.py" name="control_node" output="screen"/>
+    <node pkg="ros" type="navigation_node.py" name="navigation_node" output="screen"/>
+</launch>
